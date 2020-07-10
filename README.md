@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 📫 How to reach me: <br>
 
 <p style="text-align: center">
-          - :envelope: edsonpaulo24@gmail.com <br>
-          - :computer: <a href="https://www.facebook.com/EdsonGregorioEG"> Edson’s Portfólio</a> <br>
-          -     <a href="https://www.linkedin.com/in/edsonpaulo1/"> Edson on Linkedin </a> <br>
-          -    <a href="https://www.facebook.com/EdsonGregorioEG"> Edson on Facebook </a> <br>
+          - :envelope: edsonpaulo24@gmail.com  ... 
+           :computer: <a href="https://www.facebook.com/EdsonGregorioEG"> Edson’s Portfólio</a> ... 
+               <a href="https://www.linkedin.com/in/edsonpaulo1/"> Edson on Linkedin </a> ... 
+              <a href="https://www.facebook.com/EdsonGregorioEG"> Edson on Facebook </a> 
    </p>
       
    
