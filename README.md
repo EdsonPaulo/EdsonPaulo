@@ -12,16 +12,17 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on FrontEnd Development of a Web Platform (medium scale) with Angular 8+
-- 🌱 I’m currently learning FrontEnd with React & Angular & Ract Native for Mobile Development..
-- 💬 Ask me about: Web & Mobile Development
-- 📫 How to reach me: <br>
-          :envelope: edsonpaulo24@gmail.com <br>
-          :computer: <a href="https://www.facebook.com/EdsonGregorioEG"> Edson’s Portfólio</a> <br><br>
-               <a href="https://www.linkedin.com/in/edsonpaulo1/"> Edson on Linkedin </a> <br>
-               <a href="https://www.facebook.com/EdsonGregorioEG"> Edson on Facebook </a> <br>
+🔭 I’m currently working on FrontEnd Development of a Web Platform (medium scale) with Angular 8+ <br><br>
+🌱 I’m currently learning FrontEnd with React & Angular & Ract Native for Mobile Development.. <br><br>
+💬 Ask me about: Web & Mobile Development <br><br>
+
+📫 How to reach me: <br>
+
+<p style="text-align: center">
+          - :envelope: edsonpaulo24@gmail.com <br>
+          - :computer: <a href="https://www.facebook.com/EdsonGregorioEG"> Edson’s Portfólio</a> <br>
+          -     <a href="https://www.linkedin.com/in/edsonpaulo1/"> Edson on Linkedin </a> <br>
+          -    <a href="https://www.facebook.com/EdsonGregorioEG"> Edson on Facebook </a> <br>
+   </p>
       
-      
-      <br><br>
-      
-     
+   
