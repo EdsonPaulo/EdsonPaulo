@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 💬 Ask me about: Web & Mobile Development <br><br>
 
 📫 How to reach me: <br>
-
-<p style="text-align: center">
-          - :envelope: edsonpaulo24@gmail.com  ... 
-           :computer: <a href="https://www.facebook.com/EdsonGregorioEG"> Edson’s Portfólio</a> ... 
-               <a href="https://www.linkedin.com/in/edsonpaulo1/"> Edson on Linkedin </a> ... 
-              <a href="https://www.facebook.com/EdsonGregorioEG"> Edson on Facebook </a> 
-   </p>
+          - :envelope: edsonpaulo24@gmail.com 
+          - :computer: <a href="https://www.facebook.com/EdsonGregorioEG"> Edson’s Portfólio</a> 
+          -   <a href="https://www.linkedin.com/in/edsonpaulo1/"> Edson on Linkedin </a> 
+          -    <a href="https://www.facebook.com/EdsonGregorioEG"> Edson on Facebook </a> 
+   
       
    
