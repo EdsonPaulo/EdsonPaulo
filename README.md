@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 -->
 
-🔭 I’m currently working on FrontEnd Development of a Web Platform (medium scale) with Angular 8+  <br><br>
+🔭 I’m currently working on FrontEnd Development of Web Apps with Angular 8+. And Mobile Apps with React Native. <br><br>
 🌱 I’m currently learning FrontEnd with React & Angular & Ract Native for Mobile Development.. <br><br>
 💬 Ask me about: Web & Mobile Development <br><br>
 
