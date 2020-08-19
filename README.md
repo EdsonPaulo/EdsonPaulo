@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Freelancer Jobs 
 
-
 -->
 
 🔭 I’m currently working on FrontEnd Development of Web Apps with Angular 8+. And Mobile Apps with React Native. <br><br>
@@ -22,9 +21,14 @@ Here are some ideas to get you started:
 - <a href="https://www.linkedin.com/in/edsonpaulo1/"> Edson on Linkedin </a> 
 - <a href="https://www.facebook.com/EdsonGregorioEG"> Edson on Facebook </a> 
    
- #SOME MY WORKS SCREENSHOTs
+ # Some My Works (screenshots)
  
 <div styles="height: 400px;">
-<img src="https://github.com/EdsonPaulo/my-images/blob/master/agua_nobre.png" width="45%"></img> <img src="https://github.com/EdsonPaulo/my-images/blob/master/carnesul1.jpg" width="45%"></img> <img src="https://github.com/EdsonPaulo/my-images/blob/master/conecta_home.png" width="45%"></img> <img src="https://github.com/EdsonPaulo/my-images/blob/master/aguanobre_profile.png" width="45%"></img> <img src="https://github.com/EdsonPaulo/my-images/blob/master/epg_tech.png" width="100%"></img> <img src="https://github.com/EdsonPaulo/my-images/blob/master/carnesul3.png" width="45%"></img> 
+   <img src="https://github.com/EdsonPaulo/my-images/blob/master/epg_tech.png" width="100%" />
+   <img src="https://github.com/EdsonPaulo/my-images/blob/master/carnesul3.png" width="45%" />
+   <img src="https://github.com/EdsonPaulo/my-images/blob/master/carnesul1.jpg" width="45%" /> 
+   <img src="https://github.com/EdsonPaulo/my-images/blob/master/conecta_home.png" width="45%" /> 
+   <img src="https://github.com/EdsonPaulo/my-images/blob/master/aguanobre_profile.png" width="45%" />
+   <img src="https://github.com/EdsonPaulo/my-images/blob/master/agua_nobre.png" width="45%" />
 </div>
    
