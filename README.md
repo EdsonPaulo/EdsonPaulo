@@ -24,10 +24,13 @@ Here are some ideas to get you started:
  
 <div styles="height: 400px;">
    <img src="https://github.com/EdsonPaulo/my-images/blob/master/epg_tech.png" width="100%" />
-   <img src="https://github.com/EdsonPaulo/my-images/blob/master/carnesul3.png" width="45%" />
-   <img src="https://github.com/EdsonPaulo/my-images/blob/master/agua_nobre.png" width="45%" />
-   <img src="https://github.com/EdsonPaulo/my-images/blob/master/conecta_home.png" width="45%" /> 
-   <img src="https://github.com/EdsonPaulo/my-images/blob/master/aguanobre_profile.png" width="45%" />
-   <img src="https://github.com/EdsonPaulo/my-images/blob/master/carnesul1.jpg" width="45%" /> 
+   
+   <img src="https://github.com/EdsonPaulo/my-images/blob/master/aguanobre1.png" width="45%" />
+   <img src="https://github.com/EdsonPaulo/my-images/blob/master/aguanobre2.png" width="45%" />
+   <img src="https://github.com/EdsonPaulo/my-images/blob/master/carnesul1.png" width="45%" /> 
+   
+   <img src="https://github.com/EdsonPaulo/my-images/blob/master/conecta.png" width="45%" />
+   <img src="https://github.com/EdsonPaulo/my-images/blob/master/epgauth0.png" width="45%" /> 
+   <img src="https://github.com/EdsonPaulo/my-images/blob/master/epg-auth.png" width="45%" /> 
 </div>
    
