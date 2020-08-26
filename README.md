@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 📫 How to reach me: <br>
  :envelope: edsonpaulo24@gmail.com  /  :computer: <a href="https://edsonpaulo.github.io"> Edson’s Portfolio</a> /  <a href="https://www.linkedin.com/in/edsonpaulo1/">👯 Edson on Linkedin</a> / <a href="https://www.facebook.com/EdsonGregorioEG">💬 Edson on Facebook </a> 
    
- # Some My Works (screenshots)
+ # Some of my work (screenshots)
  
 <div styles="height: 400px;">
    <img src="https://github.com/EdsonPaulo/my-images/blob/master/epg_tech.png" width="100%" />
