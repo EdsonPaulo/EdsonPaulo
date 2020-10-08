@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working with FrontEnd Development of Web Apps using Angular 8+ & ReactJs. Mobile Apps with React Native. And Learning NodeJs<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonpaulo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Edson's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true&show_icons=true)
+<span styles="text-align: center;">
+![Edson's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true&show_icons=true) <span> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonpaulo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  </span>
+</span>
 
 📫 How to reach me: <br>
  :envelope: edsonpaulo24@gmail.com  /  :computer: <a href="https://edsonpaulo.github.io"> Edson’s Portfolio</a> /  <a href="https://www.linkedin.com/in/edsonpaulo1/">👯 Edson on Linkedin</a> / <a href="https://www.facebook.com/EdsonGregorioEG">💬 Edson on Facebook </a> 
