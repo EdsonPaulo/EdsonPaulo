@@ -10,10 +10,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Freelancer Jobs 
 💬 Ask me about: Web & Mobile Development <br><br>
 -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonpaulo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 I’m currently working with FrontEnd Development of Web Apps using Angular 8+ & ReactJs. Mobile Apps with React Native. And Learning NodeJs<br><br>
  
-![Edson's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonpaulo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Edson's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true&show_icons=true)
  
 
 📫 How to reach me: <br>
