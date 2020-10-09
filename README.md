@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:edsonpaulo24@gmail.com)](mailto:gentil.pinto.dev@gmail.com)
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsonpaulo1/)](https://www.linkedin.com/in/edsonpaulo1/)
  [![Github Page Badge](https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white&link=https://edsonpaulo.github.io/)](https://edsonpaulo.github.io/)
-[![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/https://www.facebook.com/EdsonGregorioEG/)](https://www.facebook.com/https://www.facebook.com/EdsonGregorioEG/)
+[![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/EdsonGregorioEG/)](https://www.facebook.com/EdsonGregorioEG/)
    
  # Some of my work (screenshots)
  
