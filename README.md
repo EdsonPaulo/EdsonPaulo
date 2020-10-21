@@ -26,9 +26,7 @@ Here are some ideas to get you started:
    
  # Some of my work (screenshots)
  
-<div styles="height: 400px;">
-   <img src="https://github.com/EdsonPaulo/my-images/blob/master/epg_tech.png" width="100%" />
-   
+<div>
    <img src="https://github.com/EdsonPaulo/my-images/blob/master/aguanobre1.png" width="33%" />
    <img src="https://github.com/EdsonPaulo/my-images/blob/master/conecta.png" width="33%" />
    <img src="https://github.com/EdsonPaulo/my-images/blob/master/carnesul1.png" width="33%" /> 
