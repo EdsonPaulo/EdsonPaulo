@@ -13,12 +13,8 @@ Here are some ideas to get you started:
 ![Edson's github stats](https://github-readme-stats.vercel.app/api?username=edsonpaulo&include_all_commits=true&show_icons=true)
 -->
  
-🔭 I’m currently working with FrontEnd Development of Web Apps using Angular 8+ & ReactJs. Mobile Apps with React Native. And Learning NodeJs<br><br>
- 
- <p align="center"><span>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonpaulo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </span></p>
-  
+🔭 I’m currently working with Mobile (android & IOS) apps development with React Native, Web FrontEnd Development using ReactJs & Angular 10. And Learning NodeJs<br><br>
+  <br>
 <p align="center">
 ⚡ My Skills <br><br>
   <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="20px" height="20px"/>
@@ -40,14 +36,23 @@ Here are some ideas to get you started:
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> 
 </p>
-<br>
+<br> 
+
 <p align="center">
 📫 How to reach me: <br><br>
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:edsonpaulo24@gmail.com)](mailto:edsonpaulo24@gmail.com)
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsonpaulo1/)](https://www.linkedin.com/in/edsonpaulo1/)
- [![Github Page Badge](https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white&link=https://edsonpaulo.github.io/)](https://edsonpaulo.github.io/)
- [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/EdsonGregorioEG/)](https://www.facebook.com/EdsonGregorioEG/)
- </p>
+ <a href="mailto:edsonpaulo24@gmail.com">
+     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white"/>
+ </a>
+ <a href="https://www.linkedin.com/in/edsonpaulo1/">
+     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white"/>
+ </a>
+ <a href="https://edsonpaulo.github.io/">
+     <img src="https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white"/>
+ </a>
+ <a href="https://www.facebook.com/EdsonGregorioEG/">
+     <img src="https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white"/>
+ </a>
+</p>
  
  # Some of my work (screenshots)
 <div>
