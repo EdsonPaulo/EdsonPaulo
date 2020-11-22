@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 
 ![Edson's github stats](https://github-readme-stats.vercel.app/api?username=edsonpaulo&include_all_commits=true&show_icons=true)
 -->
+<br>
  <p align="center">
 🔭 I’m currently working with Mobile (android & IOS) apps development with React Native, Web FrontEnd Development using ReactJs & Angular 10. And Learning NodeJs<br><br>
  </p>
