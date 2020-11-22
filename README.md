@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   </p>
   
 <p align="center">
-⚡ My Skills <br>
+⚡ My Skills <br><br>
  <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="20px" height="20px"/>
 <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="20px" height="20px"/>
 <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" width="20px" height="20px"/>
@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> 
 </p>
-
+<br>
 <p align="center">
 📫 How to reach me: <br>
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:edsonpaulo24@gmail.com)](mailto:edsonpaulo24@gmail.com)
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsonpaulo1/)](https://www.linkedin.com/in/edsonpaulo1/)
  [![Github Page Badge](https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white&link=https://edsonpaulo.github.io/)](https://edsonpaulo.github.io/)
-[![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/EdsonGregorioEG/)](https://www.facebook.com/EdsonGregorioEG/)
+ [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/EdsonGregorioEG/)](https://www.facebook.com/EdsonGregorioEG/)
  </p>
  
  # Some of my work (screenshots)
