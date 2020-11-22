@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 
 ![Edson's github stats](https://github-readme-stats.vercel.app/api?username=edsonpaulo&include_all_commits=true&show_icons=true)
 -->
- 
+ <p align="center">
 🔭 I’m currently working with Mobile (android & IOS) apps development with React Native, Web FrontEnd Development using ReactJs & Angular 10. And Learning NodeJs<br><br>
-  <br>
+ </p>
 <p align="center">
 ⚡ My Skills <br><br>
   <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="20px" height="20px"/>
@@ -53,8 +53,11 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white"/>
  </a>
 </p>
+ <br>  <br> 
  
- # Some of my work (screenshots)
+ <p align="center">
+  # Some of my work (screenshots)
+ </p>
 <div>
    <img src="https://github.com/EdsonPaulo/my-images/blob/master/aguanobre1.png" width="33%" />
    <img src="https://github.com/EdsonPaulo/my-images/blob/master/conecta.png" width="33%" />
