@@ -8,14 +8,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Freelancer Jobs 
-💬 Ask me about: Web & Mobile Development <br><br>
+ <br><br>
 
 ![Edson's github stats](https://github-readme-stats.vercel.app/api?username=edsonpaulo&include_all_commits=true&show_icons=true)
 -->
 <br>
- <p align="center">
-🔭 I’m currently working with Mobile (android & IOS) apps development with React Native, Web FrontEnd Development using ReactJs & Angular 10. And Learning NodeJs<br><br>
+ <p>
+ 💬 Ask me about: Web & Mobile Development
+ 
+ 🔭 I’m currently working with
+   - Mobile (android & IOS) apps development with React Native
+   - Web Development using ReactJs & Angular 10. 
+   - RESTiful API with NodeJs
  </p>
+ <br><br>
+ 
 <p align="center">
 ⚡ My Skills <br><br>
   <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="20px" height="20px"/>
@@ -54,14 +61,4 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white"/>
  </a>
 </p>
- <br>  <br> 
- 
- <p align="center">
-  # Some of my work (screenshots)
- </p>
-<div>
-   <img src="https://github.com/EdsonPaulo/my-images/blob/master/aguanobre1.png" width="33%" />
-   <img src="https://github.com/EdsonPaulo/my-images/blob/master/conecta.png" width="33%" />
-   <img src="https://github.com/EdsonPaulo/my-images/blob/master/carnesul1.png" width="33%" /> 
-</div>
-   
+ <br><br> 
