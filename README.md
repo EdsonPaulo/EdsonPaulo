@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  🔭 I’m currently working with
    - Mobile (android & IOS) apps development with React Native
    - Web Development using ReactJs & Angular 10. 
-   - RESTiful API with NodeJs
+   - RESTful API with NodeJs
  </p>
  <br><br>
  
