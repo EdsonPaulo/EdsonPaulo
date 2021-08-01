@@ -1,4 +1,4 @@
-### Hi there 👋, I’m Edson, a Young Developer 
+### Hi there 👋, I’m Edson Gregorio
 
 <!--
 **EdsonPaulo/EdsonPaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
