@@ -47,17 +47,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 📫 How to reach me: <br><br>
- <a href="mailto:edsonpaulo24@gmail.com">
-     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white"/>
- </a>
- <a href="https://www.linkedin.com/in/edsonpaulo1/">
-     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white"/>
- </a>
- <a href="https://edsonpaulo.github.io/">
-     <img src="https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white"/>
- </a>
- <a href="https://www.facebook.com/EdsonGregorioEG/">
-     <img src="https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white"/>
- </a>
+  <a href = "mailto:edsonpaulo24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/edsonpaulo1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/edsonpaulo24" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
  <br><br> 
