@@ -1,29 +1,27 @@
-### Hi there 👋, I’m Edson Gregorio
+<body>
+<header>
+<h3 align="middle">Hi there, I’m Edson Gregorio 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+</header>
 
-<!--
-**EdsonPaulo/EdsonPaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<main>
+<section>
+<p align="middle">
+<a herf="">
+<img src="https://readme-typing-svg.herokuapp.com?font=firecode&color=F74444&center=true&vCenter=true&lines=Web+%26+Mobile+Apps++Developer;React+%26+React+Native+Apps" />
+</a>
+</p>
 
-Here are some ideas to get you started:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Freelancer Jobs 
- <br><br>
-
-![Edson's github stats](https://github-readme-stats.vercel.app/api?username=edsonpaulo&include_all_commits=true&show_icons=true)
--->
-<br>
- <p>
- 💬 Ask me about: Web & Mobile Development
- 
- 🔭 I’m currently working with
-   - Mobile (android & IOS) apps development with React Native
-   - Web Development using ReactJs & Angular 10. 
-   - RESTful API with NodeJs
- </p>
- <br><br>
- 
 <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=edsonpaulo&theme=omni&hide_border=true&include_all_commits=true&show_icons=true"/>
+</a>
+</p>
+</section>
+</main>
+
+
+<p align="middle">
 ⚡ My Skills <br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30px" height="30px"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30px" height="30px"/>
@@ -45,17 +43,22 @@ Here are some ideas to get you started:
 </p>
 <br> 
 
-<p align="center">
-📫 How to reach me: <br><br>
-  <a href = "mailto:edsonpaulo24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edsonpaulo1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://instagram.com/edsonpaulo24" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<p align="middle">
+	<a href="mailto:edsonpaulo24@gmail.com">
+	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+	<a href="https://www.linkedin.com/in/edsonpaulo1/">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="https://api.whatsapp.com/send?l=pt_AO&phone=+244942682194&text=Hello Edson, can we have a chat?">
+	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+	</a>
+	<a href="https://instagram.com/edsonpaulo24" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
- 
-<p align="center"> 
- 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+
+<p align="middle">
+
+<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" />
 
 </p>
+</body>
