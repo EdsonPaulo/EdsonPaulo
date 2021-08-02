@@ -58,7 +58,7 @@
 
 <p align="middle">
 
-<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/edsonpaulo/edsonpaulo/master/github-contribution-grid-snake.svg" />
 
 </p>
 </body>
