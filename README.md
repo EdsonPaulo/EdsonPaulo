@@ -53,7 +53,6 @@
 	<a href="https://api.whatsapp.com/send?l=pt_AO&phone=+244942682194&text=Hello Edson, can we have a chat?">
 	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 	</a>
-	<a href="https://instagram.com/edsonpaulo24" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
 <p align="middle">
